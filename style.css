@@ -3,3 +3,14 @@ body {
   background: pink;
   text-align: center;
 }
+
+h1 {
+  color: rgb(0, 26, 255);
+  font-size: large;
+}
+p {
+  color: rgb(11, 11, 11);
+  font-size: medium;
+}
+
+
