@@ -1,7 +1,7 @@
 /* The navigation bar */
 .navbar {
   overflow: hidden;
-  background-color: grey;
+  background-color: black;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
@@ -34,15 +34,25 @@ body {
   margin: 0;
   background: pink;
   text-align: center;
+  
 }
 
 h1 {
   color: black ;
-  font-size: large;
+  font-size: 40 px;
+  font-family: Garamond;
+  font-style: bold;
 }
+
+h2 {
+  color: black ;
+  font-size: 30 px;
+  font-family: Garamond;
+}
+
 p {
   color: grey;
-  font-size: small;
+  font-size: 15 px;
 }
 
 
