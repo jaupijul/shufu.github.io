@@ -1,9 +1,11 @@
 /* The navigation bar */
 
 .header {
-  background-color: #F1F1F1;
+  margin: 0;
+  background: pink;
   text-align: center;
-  padding: 20px;
+  background-color: #F1F1F1;
+  padding: 100 px;
 }
 
 .navbar {
@@ -45,7 +47,7 @@
 
 /* Main content */
 .main {
-  margin-top: 100px; /* Add a top margin to avoid content overlay */
+  margin-top: 200px; /* Add a top margin to avoid content overlay */
 }
 
 
