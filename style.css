@@ -5,6 +5,8 @@
   background: pink;
   text-align: center;
   padding: 100 px;
+  position: fixed;
+  top: 0;
 }
 
 .navbar {
@@ -16,7 +18,7 @@
 /* Links inside the navbar */
 .navbar a {
   float: left;
-  display: block;
+  position: fixed;
   color: #f2f2f2;
   font-size: 15 px;
   font-family: Garamond;
