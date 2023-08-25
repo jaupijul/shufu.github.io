@@ -1,7 +1,10 @@
 .iframe {
-    margin-top: 190px;
+    margin-top: 170px;
     width: 100%;
     border-width: 0px;
+    padding: 5px;
+    position:absolute;
+    height:570px;
 }
 
 /* The navigation bar */
