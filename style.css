@@ -44,11 +44,7 @@
   bottom: 0;
   width: 100%;
 }
-body {
-  margin: auto;
-  background: white;
-  text-align: left;
-}
+
 .h1 {
   color: red ;
   font-size: 60 px;
