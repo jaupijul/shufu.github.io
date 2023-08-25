@@ -14,7 +14,7 @@
   overflow: hidden;
   background-color: #333;
   width: 100%; /* Full width */
-  position: fixed;
+  position: relative;
 }
 
 /* Links inside the navbar */
