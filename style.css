@@ -5,16 +5,12 @@
     position:absolute;
     height:570px;
 }
-
-
-
 .header {
   margin: 0;
   background: pink;
   text-align: center;
   width: 100%; /* Full width */
   position: fixed;
-  
 }
 /* The navigation bar */
 .navbar {
@@ -24,7 +20,6 @@
   position: fixed;
   margin-top: 125px;
 }
-
 /* Links inside the navbar */
 .navbar a {
   float: left;
@@ -35,13 +30,11 @@
   padding: 14px 16px;
   text-decoration: none;
 }
-
 /* Change background on mouse-over */
 .navbar a:hover {
   background: #ddd;
   color: black;
 }
-
 .footer {
   background-color: #333;
   text-align: center;
@@ -51,39 +44,29 @@
   bottom: 0;
   width: 100%;
 }
-
-
 body {
   margin: auto;
   background: white;
   text-align: left;
-  
 }
-
 h1 {
   color: red ;
   font-size: 60 px;
   font-family: Garamond;
   font-style: bold;
 }
-
 h2 {
   color: black ;
   font-size: 30 px;
   font-family: Garamond;
 }
-
 h3 {
   color: black ;
   font-size: 15 px;
   font-family: Garamond;
 }
-
-
 p {
   color: 	rgb(80,80,80);
   font-size: 15 px;
   font-family: Garamond;
 }
-
-
