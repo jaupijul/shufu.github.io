@@ -32,7 +32,7 @@
 .footer {
   background-color: #333;
   text-align: center;
-  padding: 50px;
+  padding: 10px;
   margin-top: 20px;
 }
 
@@ -68,6 +68,13 @@ h2 {
   font-size: 30 px;
   font-family: Garamond;
 }
+
+h3 {
+  color: black ;
+  font-size: 15 px;
+  font-family: Garamond;
+}
+
 
 p {
   color: grey;
