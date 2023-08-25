@@ -4,7 +4,7 @@
   margin: 0;
   background: pink;
   text-align: center;
-  padding: 100 px;
+  padding: 10px;
   width: 100%; /* Full width */
   position: fixed;
   
@@ -14,7 +14,8 @@
   overflow: hidden;
   background-color: #333;
   width: 100%; /* Full width */
-  position: relative;
+  position: fixed;
+  top: 100px;
 }
 
 /* Links inside the navbar */
