@@ -5,6 +5,9 @@
   background: pink;
   text-align: center;
   padding: 100 px;
+  width: 100%; /* Full width */
+  position: fixed;
+  
 }
 
 .navbar {
