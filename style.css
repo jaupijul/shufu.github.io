@@ -1,3 +1,9 @@
+.iframe {
+    margin-top: 190px;
+    width: 100%;
+    border-width: 0px;
+}
+
 /* The navigation bar */
 
 .header {
