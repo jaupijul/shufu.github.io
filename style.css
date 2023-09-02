@@ -4,6 +4,7 @@
     border-width: 0px;
     position:absolute;
     height:570px;
+    padding-block:10px;
 }
 .header {
   margin: 0;
