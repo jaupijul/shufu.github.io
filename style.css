@@ -1,16 +1,69 @@
-body {
+.iframe {
+    margin-top: 170px;
+    width: 100%;
+    border-width: 0px;
+    position:absolute;
+    height:570px;
+    padding-block:10px;
+}
+.header {
   margin: 0;
   background: pink;
   text-align: center;
+  width: 100%; /* Full width */
+  position: fixed;
+}
+/* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  width: 100%; /* Full width */
+  position: fixed;
+  margin-top: 125px;
+}
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  font-size: 15 px;
+  font-family: Garamond;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+.footer {
+  background-color: #333;
+  text-align: center;
+  display: block;
+  margin: 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 h1 {
-  color: rgb(0, 26, 255);
-  font-size: large;
+  color: black ;
+  font-size: 60 px;
+  font-family: Garamond;
+  font-style: bold;
+}
+h2 {
+  color: black ;
+  font-size: 30 px;
+  font-family: Garamond;
+}
+h3 {
+  color: black ;
+  font-size: 15 px;
+  font-family: Garamond;
 }
 p {
-  color: rgb(11, 11, 11);
-  font-size: medium;
+  color: 	rgb(80,80,80);
+  font-size: 15 px;
+  font-family: Garamond;
 }
-
-
