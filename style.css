@@ -8,7 +8,7 @@
 }
 .header {
   margin: 0;
-  background: 	#E6E6FA;
+  background: 	#FF1493;
   text-align: center;
   width: 100%; /* Full width */
   position: fixed;
@@ -41,7 +41,6 @@
   text-align: center;
   display: block;
   margin: 0;
-  position: fixed;
   bottom: 0;
   width: 100%;
 }
