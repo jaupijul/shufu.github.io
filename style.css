@@ -1,5 +1,5 @@
 .iframe {
-    margin-top: 170px;
+    margin-top: 150px;
     width: 100%;
     border-width: 0px;
     position:absolute;
@@ -19,7 +19,7 @@
   background-color: #333;
   width: 100%; /* Full width */
   position: fixed;
-  margin-top: 125px;
+  margin-top: 105px;
 }
 /* Links inside the navbar */
 .navbar a {
