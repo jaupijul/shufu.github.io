@@ -46,6 +46,16 @@
   width: 100%;
 }
 
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+img {
+  margin: 5px;
+}
+
 h1 {
   color: black ;
   font-size: 60 px;
