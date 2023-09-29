@@ -58,22 +58,26 @@ img {
 
 h1 {
   color: black ;
-  font-size: 60 px;
+  font-size: 60px;
   font-family: Garamond;
   font-style: bold;
 }
 h2 {
   color: black ;
-  font-size: 30 px;
+  font-size: 30px;
   font-family: Garamond;
 }
 h3 {
   color: black ;
-  font-size: 15 px;
+  font-size: 15px;
   font-family: Garamond;
 }
 p {
   color: 	rgb(80,80,80);
   font-size: 15 px;
   font-family: Garamond;
+}
+
+body {
+padding: 10px;
 }
