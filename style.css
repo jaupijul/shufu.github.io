@@ -4,12 +4,13 @@
     border-width: 0px;
     position:absolute;
     height:570px;
-    padding-block:10px;
+    padding-block:0px;
 }
 .header {
   margin: 0;
   background: 	#FE7F9C;
   text-align: center;
+  font-family: Garamond;
   width: 100%; /* Full width */
   position: fixed;
 }
@@ -19,7 +20,7 @@
   background-color: #333;
   width: 100%; /* Full width */
   position: fixed;
-  margin-top: 105px;
+  margin-top: 96px;
 }
 /* Links inside the navbar */
 .navbar a {
@@ -53,23 +54,24 @@
 }
 
 img {
-  margin: 1px;
+margin-left: auto;
+margin-right: auto;
 }
 
 h1 {
   color: black ;
-  font-size: 60 px;
+  font-size: 35px;
   font-family: Garamond;
   font-style: bold;
 }
 h2 {
   color: black ;
-  font-size: 30 px;
+  font-size: 23px;
   font-family: Garamond;
 }
 h3 {
   color: black ;
-  font-size: 15 px;
+  font-size: 15px;
   font-family: Garamond;
 }
 p {
