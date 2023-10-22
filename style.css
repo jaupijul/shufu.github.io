@@ -50,17 +50,9 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  position: relative;
   width: 100%; // The width is 100% due to us using a div, but this way it's more explicit.
 }
 
-.container > iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
 
 img {
 margin-left: auto;
