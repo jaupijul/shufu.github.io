@@ -12,6 +12,7 @@
   font-family: Garamond;
   width: 100%; /* Full width */
   position: fixed;
+  
 }
 /* The navigation bar */
 .navbar {
@@ -25,10 +26,10 @@
 .navbar a {
   float: left;
   color: #f2f2f2;
-  font-size: 15 px;
+  font-size: 15px;
   font-family: Garamond;
   text-align: center;
-  padding: 14px 16px;
+  padding: 6px 6px;
   text-decoration: none;
 }
 /* Change background on mouse-over */
